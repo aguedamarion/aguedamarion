@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aguedamarion
 - 👀 I’m interested in data engineering
-- 🌱 I’m currently learning python and sql
+- 🌱 I’m currently learning Python, SQL and machine learning
 - 📫 How to reach me heberle.ag@gmail.com
 
 <!---
